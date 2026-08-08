@@ -1,4 +1,4 @@
 interface:
   display_name: "Punk IP 长文插图"
-  short_description: "用固定 Punk IP 生成复古彩色扁平 3D 长文正文插图"
-  default_prompt: "使用 $punk-ip-article-illustrations 根据下面的主题生成一张核心动作模式插图。"
+  short_description: "自动分析长文并用固定 Punk IP 逐张生成复古扁平 3D 插图"
+  default_prompt: "使用 $punk-ip-article-illustrations 完整读取下面的内容，自动决定配图数量，并逐张生成横版 16:9 正文插图。"

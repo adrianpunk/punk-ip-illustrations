@@ -1,0 +1,29 @@
+Punk IP Assets License
+
+Copyright (c) 2026 Adrian Punk. All rights reserved.
+
+This license applies to the Punk character sheet and character assets in this
+repository, including:
+
+assets/punk-character-sheet.png
+
+Permission is granted to download and use these assets only as part of this
+repository's Punk IP Article Illustrations Skill for generating article
+illustrations.
+
+Generated article illustrations may be used and published by the person who
+generated them. This permission does not grant ownership of the Punk character
+identity or the source character assets.
+
+You may not redistribute, sublicense, sell, or repackage the source character
+assets as standalone assets; use the Punk character identity to impersonate
+the creator; register the character as your own trademark or personal IP; or
+train and distribute a separate character model based primarily on these
+assets without prior written permission from the copyright holder.
+
+The example illustrations under docs/images/ may be displayed when linking to
+or describing this repository. They may not be repackaged or sold as
+standalone stock assets without prior written permission.
+
+The MIT License in LICENSE applies to the Skill workflow and documentation,
+not to the Punk character assets covered by this file.

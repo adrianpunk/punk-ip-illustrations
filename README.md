@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="50%"><img src="docs/images/double-standard.png" alt="成功女性面对的双重标准"></td>
-    <td width="50%"><img src="docs/images/dignified-future.png" alt="合理回报连接科研与体面未来"></td>
+    <td width="50%"><img src="docs/images/article-workflow.png" alt="收集资料、筛选证据、形成判断并输出文章的流程拆解"></td>
   </tr>
 </table>
 

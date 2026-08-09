@@ -1,2 +1,4 @@
 .DS_Store
 .punk-ip-assets/
+__pycache__/
+*.pyc

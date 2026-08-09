@@ -1,4 +1,4 @@
 interface:
   display_name: "Punk IP 插图"
   short_description: "Punk 出品：从照片创建个人 IP，并用确认角色自动生成长文插图"
-  default_prompt: "使用 $punk-ip-article-illustrations 根据我上传的照片创建个人 IP；确认角色后，继续读取文章并自动生成正文插图。"
+  default_prompt: "使用 $punk-ip-article-illustrations 开始首次引导：请介绍完整流程，并提示我上传一张清晰人物照片和角色名称，先生成并确认个人 IP，再给文章自动配图。"

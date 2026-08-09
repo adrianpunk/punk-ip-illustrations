@@ -91,6 +91,9 @@ git clone https://github.com/adrianpunk/punk-ip-illustrations.git "$HOME\.codex\
 安装完成后，在客户端中选择 `$punk-ip-article-illustrations`。如果还没有创建过角色，Skill 会先显示：
 
 ```text
+Hi，我是 Punk，欢迎使用 Punk IP Illustrations。
+每个人都是独立的个体，也拥有属于自己的强大 IP。愿你在这里找到自己的品牌价值。
+
 请上传一张清晰的人物照片，并告诉我角色名称或昵称。
 
 接下来我会：

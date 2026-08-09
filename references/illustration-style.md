@@ -59,7 +59,8 @@
 
 ## Punk 角色
 
-- 以 `assets/punk-character-sheet.png` 和 `references/character-spec.md` 共同定义身份。
+- 默认以 `assets/punk-character-reference-clean.png` 和 `references/character-spec.md` 定义身份。
+- 只有需要侧面、背面或多角度身份校验时，才同时使用 `assets/punk-character-sheet.png`；不得复制设定板的背景、标题、边框、配色板或说明文字。
 - 保持人物确定的身体比例、脸型、发型、服装、配件、鞋型和稳定配色。
 - 不把角色改绘成写实真人、二维简笔画、黏土公仔、毛绒玩具、赛博朋克角色或其他 IP。
 - 让角色承担观察、体验、触发、承受或改变核心关系的必要职责。

@@ -70,8 +70,16 @@ https://github.com/adrianpunk/punk-ip-illustrations
 
 ### 手动安装到 Codex
 
+macOS / Linux：
+
 ```bash
 git clone https://github.com/adrianpunk/punk-ip-illustrations.git ~/.codex/skills/punk-ip-article-illustrations
+```
+
+Windows PowerShell：
+
+```powershell
+git clone https://github.com/adrianpunk/punk-ip-illustrations.git "$HOME\.codex\skills\punk-ip-article-illustrations"
 ```
 
 如果你使用的客户端不是 Codex，请把仓库克隆到该客户端对应的 Skills 目录，并确保目录名为 `punk-ip-article-illustrations`。

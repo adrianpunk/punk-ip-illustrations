@@ -26,5 +26,8 @@ The example illustrations under docs/images/ may be displayed when linking to
 or describing this repository. They may not be repackaged or sold as
 standalone stock assets without prior written permission.
 
-The MIT License in LICENSE applies to the Skill workflow and documentation,
-not to the Punk character assets covered by this file.
+The Skill workflow, scripts, and documentation are governed by the dual-track
+licenses in LICENSE, LICENSE-PERSONAL.md, and COMMERCIAL-LICENSE.md, not by this
+file. This LICENSE-ASSETS file remains the authoritative license for the Punk
+character source assets listed above. Permission to use and publish generated
+article illustrations remains as stated in this file.

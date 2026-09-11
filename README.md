@@ -326,9 +326,15 @@ Skill 会以核心观点、逻辑转折和唯一段落作为定位锚点，把�
 
 ## 授权
 
-工作流、脚本和文档按 [MIT License](LICENSE) 发布。用户上传的照片、生成角色和文章插图不属于仓库内容，其权利由用户和所使用的图像服务条款决定。
+本仓库采用「个人非商用免费 + 商业付费授权」双轨模式：
 
-- 内置 Punk 人物设定图及角色资产不包含在 MIT 授权中，详见 [LICENSE-ASSETS](LICENSE-ASSETS)。
+- **个人非商用**：自然人个人学习、研究、实验、兴趣项目或个人表达免费，详见 [LICENSE-PERSONAL.md](LICENSE-PERSONAL.md)。
+- **商业使用**：须事先取得书面授权并付清适用费用后才生效，申请说明见 [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)。
+- **许可入口**：[LICENSE](LICENSE)。此前已按 MIT 分发的副本仍适用当时的 MIT，历史文本见 [LICENSE-MIT-LEGACY](LICENSE-MIT-LEGACY)。
+
+用户上传的照片、生成角色和文章插图不属于仓库内容，其权利由用户和所使用的图像服务条款决定。
+
+- 内置 Punk 人物设定图及角色源资产仍由 [LICENSE-ASSETS](LICENSE-ASSETS) 单独约束，不因双轨 Skill 许可而重新授权。
 - 工作流结构参考了 [jinchenma94/jinchenma-ip-skills](https://github.com/jinchenma94/jinchenma-ip-skills) 的开源思路。
 
 ## 关于作者
